@@ -17,6 +17,7 @@ public class HospitalSystem {
         // TODO code application logic here
         System.out.println("rana magdy");
         System.out.println("Nada Abdelrahim");
+        System.out.println("Jana Wael");
         
 
 
